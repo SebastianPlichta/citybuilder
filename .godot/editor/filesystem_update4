@@ -1,0 +1,7 @@
+res://scenes/main.tscn
+res://scripts/main.gd
+res://scenes/ui.tscn
+res://gfad.gd
+res://scripts/ui.gd
+res://scenes/crystals.tscn
+res://scripts/crystals.gd
